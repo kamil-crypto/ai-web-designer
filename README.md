@@ -1,2 +1,1 @@
-# ai-web-designer
-Moja strona do projektowania stron
+# AI Web Designer
